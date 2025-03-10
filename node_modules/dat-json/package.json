@@ -1,0 +1,30 @@
+{
+  "name": "dat-json",
+  "description": "read &amp; write dat.json files",
+  "version": "1.0.3",
+  "author": "Joe Hand <joe@hand.email>",
+  "bugs": {
+    "url": "https://github.com/joehand/dat-json/issues"
+  },
+  "devDependencies": {
+    "hyperdrive": "^9.12.3",
+    "random-access-memory": "^3.1.1",
+    "standard": "^12.0.1",
+    "tape": "^4.10.1"
+  },
+  "homepage": "https://github.com/joehand/dat-json",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joehand/dat-json.git"
+  },
+  "scripts": {
+    "test": "standard && tape test/*.js"
+  },
+  "dependencies": {
+    "dat-encoding": "^5.0.1",
+    "toiletdb": "^1.4.1"
+  }
+}
