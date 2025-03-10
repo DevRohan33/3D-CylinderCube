@@ -9,8 +9,9 @@ A 3D structure visualization project using **Three.js** where all edges are repr
 - Interactive **OrbitControls** for viewing from any angle.
 
 ## 🎥 Demo
-![Watch the Demo Video]()
-https://github.com/user-attachments/assets/b5f1c035-85f5-458e-9618-ab4a631e4741
+
+https://github.com/user-attachments/assets/b9c4b98f-18b7-4881-97c5-368c87b8e916
+
 
 
 ## 📦 Installation
